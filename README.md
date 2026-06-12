@@ -9,7 +9,7 @@ O **PortfolioHUB** é uma plataforma centralizada e responsiva desenvolvida para
 ## 👨‍💻 Desenvolvedor
 * **Nome:** Davi Vechi Mourão de Castro
 * **Curso:** Ciência de Dados
-* **Instituição:** Uninter (Desafio Profissional)
+* **Instituição:** CEUB
 
 ---
 
